@@ -19,14 +19,7 @@
   "description": "```\r npm start\r ```",
   "main": "index.js",
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wuyuan1992/react_css3_practice.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wuyuan1992/react_css3_practice/issues"
-  }
+  "license": "ISC"
 }
