@@ -7,7 +7,7 @@
     "react-dom": "^16.3.1",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://elonwu.github.io/react-css/",
+  "homepage": "https://elonwu.github.io/react-css3-animation",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
