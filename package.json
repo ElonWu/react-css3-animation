@@ -17,7 +17,9 @@
   },
   "description": "```\r npm start\r ```",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
   "keywords": [],
   "author": "elonwu",
   "license": "ISC",
