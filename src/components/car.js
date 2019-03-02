@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import carBody from "../img/car-body.png";
 // import carFrontWheel from '../img/car-front-wheel.png';
 // import carBackWheel from '../img/car-back-wheel.png';

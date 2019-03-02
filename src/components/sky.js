@@ -1,9 +1,5 @@
-import React, { Component } from 'react';
+import React from "react";
 
-export default function Sky({children}){
-    return (
-        <div className="sky">
-            { children }
-        </div>
-    )
+export default function Sky({ children }) {
+  return <div className="sky">{children}</div>;
 }

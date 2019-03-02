@@ -52,8 +52,8 @@
     transform: translate(-100px, 22px);
   }
   100% {
-    -webkit-transform: translate(100px, -22px);
-    transform: translate(100px, -22px);
+    -webkit-transform: translate(400px, -42px);
+    transform: translate(400px, -42px);
   }
 }
 @keyframes move {
@@ -62,8 +62,8 @@
     transform: translate(-100px, 22px);
   }
   100% {
-    -webkit-transform: translate(100px, -22px);
-    transform: translate(100px, -22px);
+    -webkit-transform: translate(400px, -42px);
+    transform: translate(400px, -42px);
   }
 }
 
@@ -155,7 +155,7 @@
   top: 50%;
   left: 20%;
 
-  animation: move 10s linear forwards;
+  animation: move 14s linear forwards;
 }
 .car #car-body {
   position: absolute;
