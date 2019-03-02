@@ -1,5 +1,5 @@
 {
-  "name": "react-app",
+  "name": "react-css",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,6 @@
     "react-dom": "^16.3.1",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://elonwu.github.io/react-css3-animation",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -20,6 +19,14 @@
   "main": "index.js",
   "devDependencies": {},
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "elonwu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElonWu/react-css3-animation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElonWu/react-css3-animation/issues"
+  },
+  "homepage": "https://elonwu.github.io/react-css3-animation"
 }
